@@ -10,15 +10,10 @@ Esta asignatura aporta al perfil del Ingeniero Químico los elementos para formu
 
 La programación es indispensable para reducir los tiempos empleados al evaluar problemas que requieren cálculos a detalle o ingeniería de detalle. Proporciona las herramientas necesarias para facilitar el manejo de datos y variables que requieren ser controladas en un sistema.
 
-### Markdown
+### Temario
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
