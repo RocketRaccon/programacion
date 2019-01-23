@@ -23,7 +23,11 @@ Depósito de Código Fuente en http://github.com para los diversos lenguajes de 
 
 ### Materiales
 Las unidades de esfuerzo academico, se esta considerando una estudiante sin computadora que acude a Centro de Computo a sala de consulta de 7am a 10pm de Lunes a Viernes.
+
 1. Internet basico de 1 mb minimo (aplica celular 3G)  disponible las 15 hrs del dia.
+
 2. Prestamo de 1 USB en el bloque 2 para correo el Sistema Operativo Linux, este será formateado, ligero uso de 10 dias a finales de Febrero.
+
 3. Cuenta institucional @tectijuana.edu.mx
+
 4. Smarthphone Android con Wifi o Iphone 5S minimo disponible en algun momento para sus pruebas
