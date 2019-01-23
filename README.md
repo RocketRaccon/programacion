@@ -13,20 +13,24 @@ La programación es indispensable para reducir los tiempos empleados al evaluar 
 
 ### Temario
 
-[Temario oficial](http://itvillahermosa.edu.mx/docs/oferta/ingquimica/temario2010/1ERSEMESTRE/Programacion.pdf).
 ![](PtemarioQ.PNG)
+
+[Temario oficial](http://itvillahermosa.edu.mx/docs/oferta/ingquimica/temario2010/1ERSEMESTRE/Programacion.pdf).
 
 ### Plataformas de trabajo diario
 
-Plataforma oficial cuantitativa en [Google Classroom](https://classroom.google.com).
-Depósito de Código Fuente en http://github.com para los diversos lenguajes de programación, CSharp, Java, Python
+- Plataforma oficial cuantitativa en [Google Classroom](https://classroom.google.com).
+
+- Depósito de Código Fuente en http://github.com para los diversos lenguajes de programación, CSharp, Java, Python
 
 ### Materiales
 Las unidades de esfuerzo academico, se esta considerando una estudiante sin computadora que acude a Centro de Computo a sala de consulta de 7am a 10pm de Lunes a Viernes.
 
+0. De contar con una PC para este curso, minimo es una Laptop/PC Dual Core con 2 Gb de RAM con sistemas operativo Linux Mint 18 64 bits de 5 años de uso promedio, con interfaz Wifi o Cable Ethernet con internet.
+
 1. Internet basico de 1 mb minimo (aplica celular 3G)  disponible las 15 hrs del dia.
 
-2. Prestamo de 1 USB en el bloque 2 para correo el Sistema Operativo Linux, este será formateado, ligero uso de 10 dias a finales de Febrero.
+2. Prestamo de 1 USB en el bloque 2 para ejecutar el Sistema Operativo Linux, este será formateado, ligero uso de 10 dias a finales de Febrero. Al traerlo considerar que se borrará todos los datos favor de respaldar.
 
 3. Cuenta institucional @tectijuana.edu.mx
 
