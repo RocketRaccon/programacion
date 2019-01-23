@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Quimica.png)
 
-You can use the [editor on GitHub](https://github.com/tectijuana/Programacion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Bienvenido al curso de Programación.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta asignatura aporta al perfil del Ingeniero Químico los elementos para formular, evaluar y resolver problemas involucrados en el desarrollo de proyectos relacionados con los procesos unitarios y de producción.
+
+La programación es indispensable para reducir los tiempos empleados al evaluar problemas que requieren cálculos a detalle o ingeniería de detalle. Proporciona las herramientas necesarias para facilitar el manejo de datos y variables que requieren ser controladas en un sistema.
+
+Esta asignatura aporta al perfil del Ingeniero Químico los elementos para formular, evaluar y resolver problemas involucrados en el desarrollo de proyectos relacionados con los procesos unitarios y de producción.
+
+La programación es indispensable para reducir los tiempos empleados al evaluar problemas que requieren cálculos a detalle o ingeniería de detalle. Proporciona las herramientas necesarias para facilitar el manejo de datos y variables que requieren ser controladas en un sistema.
 
 ### Markdown
 
@@ -26,12 +32,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### TEMARIO OFICIAL
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tectijuana/Programacion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Temario oficial](http://itvillahermosa.edu.mx/docs/oferta/ingquimica/temario2010/1ERSEMESTRE/Programacion.pdf).
+Plataforma oficial cuantitativa en [Google Classroom](https://classroom.google.com).
 
-### Support or Contact
+### Materiales
+1. Internet basica de 1 mb (aplica celular 3G) minimo disponible las 15 hrs del dia productivo
+2. Prestamo de 1 USB en el bloque 2 para correo el Sistema Operativo Linux, este sera formateado.
+3. No faltar, pero si falta revisar y contentar en la plataforma (1) los pendientes, lamento no será un 10, tareas expiradas.
+4. Dejar retroalimentación de cualqueir duda, es importante para no adelantar material y complementar a el estudiante con trabajo extra.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
