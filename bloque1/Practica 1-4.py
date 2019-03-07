@@ -1,4 +1,5 @@
-print(4, ' Imprimir los enteros del 1 al 30 ,apareados con sus reciprocos')
+print(4,'.-Imprimir los enteros del 1 al 30')
+print('apareados con sus reciprocos')
 
 i = 1
 while i<=30:
@@ -8,3 +9,4 @@ while i<=30:
 
 print('listo')
 print('Hecho por Cuevas Verdugo Gamaliel')
+print('7 de marzo 2019')
