@@ -1,0 +1,15 @@
+print ("Dame un numero")
+y= input ()
+
+x=1
+while x <= 6:
+    print(x)
+    x += 1
+
+
+
+
+
+
+Por: Jesus Ruben Ruiz Laurian
+Fecha: 12 marzo 2019 (Ya se lo habia enviado desde el 7 marzo aproximadamente)
