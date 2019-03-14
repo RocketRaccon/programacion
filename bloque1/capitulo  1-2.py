@@ -13,3 +13,4 @@ xPies=12
 yPulgadas=float(input("ingrese la cantidad de Pulgadas a convertir"))
 pies=yPulgadas*xPies
 print (pies, "pies equivalente a", yPulgadas, "Pulgas")
+
