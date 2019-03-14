@@ -8,3 +8,5 @@ n1=(3**75)
 n2=(2**100)
 if n1>n2:
     print("El número mayor es el primer número. Número:", n1)
+
+    
