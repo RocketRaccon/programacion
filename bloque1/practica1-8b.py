@@ -18,3 +18,4 @@ print("x=45")
 print("y=6")
 print("x%y")
 print(45%6)
+
