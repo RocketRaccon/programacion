@@ -19,3 +19,4 @@ while dato +1 <n:
       y + 1
  print("la cantidad de numeros positivos es" x,
  "\nLa cantidad de numeros negativos es", y)
+
