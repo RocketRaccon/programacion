@@ -1,8 +1,0 @@
-Problema 22.Introducir un numero entero positivoN. Encontrar la suma de los N enteros.Imprimir cada uno de los enteros y la suma.
-print ("Dame un numero")
-y= input ()
-
-x=1
-while x <= 6:
-    print(x)
-    x += 1
