@@ -9,3 +9,4 @@ rango=range(1,13)
 for elemento in rango:
     producto=numero*elemento
     print (numero,'x',elemento,'=',producto)
+    
