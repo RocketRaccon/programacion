@@ -1,7 +1,11 @@
-numero =int(input("Ingrese el numero de la tabla de multiplicar:"))
+"""Gomez de Leon Jose Manuel"""
+"""Capitulo 1, Ejercicio 16"""
 
-rango=range(1,11)
+
+numero =int(input("Ingrese el numero de la tabla de multiplicar: \n"))
+print ("\n")
+print ("Tabla de multiplicar\n")
+rango=range(1,13)
 for elemento in rango:
     producto=numero*elemento
     print (numero,'x',elemento,'=',producto)
-    print ("Tabla de multiplicar")
