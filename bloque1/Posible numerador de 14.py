@@ -8,3 +8,4 @@ if (xValor1 / yValor2) == 0:
 print(yValor2, "es divisor de", xValor1)
 else:
 print(yValor2, "no es divisor de", xValor1)
+
