@@ -1,5 +1,8 @@
+"""
 print("Imprimir una tabla de potencias del 2 que no exceda al 1,000.")
 print("Carmona Mejia Laura MIchelle")
+print("7 de Marzo del 2019")
+"""
 a=2
 b=3
 c=4
