@@ -1,3 +1,5 @@
+![](https://www.metachris.com/images/posts/qt/python-qt-codeless.jpg)
+
 ## Instalación en Ubuntu
 
 ```
@@ -14,7 +16,7 @@ ____
 ____
 ## Generador de código de QT a PY
 
-**Create uic.py file.**
+**Crear el programa _uic.py_ archivo.**
 
 ```
 #!/usr/bin/python3
