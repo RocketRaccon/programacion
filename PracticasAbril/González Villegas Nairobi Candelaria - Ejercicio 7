@@ -1,0 +1,10 @@
+""" Por: González Villegas Nairobi Candelaria """
+""" Fecha: 4 de abril del 2019 """
+
+
+print("Problema no.#7")
+print("Convertir temperaturas Celsius a Fahrenheit")
+
+celsius = int(input('Ingrese la temperatura en grados Celsius: '))
+fahrenheit = 9.0/5.0 * celsius +32
+print('{} grados Celsius son {} grados Fahrenheit'.format(fahrenheit, celsius))
