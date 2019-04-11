@@ -1,4 +1,15 @@
 
+
+# Este Templete fue hecho con QT4 en el 2016, si me permiten ver los nuevos cambios y quedará permanente el resto del semestre.
+# Cada dos a tres años se ven mejoras en los productos de QT.
+# Estos cambios no son de Python es del ambiente gráfico de la Compañia QT.io
+
+
+
+
+
+
+
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 # Convierte temperaturas F a C viceversa 
