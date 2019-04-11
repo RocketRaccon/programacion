@@ -6,6 +6,8 @@
 # Por ________________
 # Solo recordando que este templete esta para la versión QT4 y no es funcional QT5 nueva versiones
 
+# Favor de checar este URL: https://pythonspot.com/category/pyqt5/
+
 import sys
 from PyQt5 import QtCore, QtGui, uic
  
