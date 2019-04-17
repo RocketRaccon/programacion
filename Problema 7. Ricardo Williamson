@@ -1,4 +1,0 @@
-print("7. Convertir temperaturas Celsius a Fahrenheit. ricardo williamson.")
-grados1 = int(input('grados celsius:'))
-fahrenheit = 9.0/5.0 * grados1 + 32
-print('{} grados a fahrenheit son {}'.format(grados1, farenheitt))
