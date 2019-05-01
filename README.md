@@ -52,10 +52,10 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 
 ### INTERPRETES EN LINEA
 
-https://www.python.org/shell/ - Sitio Oficial.
-https://ideone.com/ -Mas usado para códigos pequeños
-https://repl.it/languages/python3 - Potente y simple compilador en línea, IDE e intérprete. Codifique, compile y ejecute el código en Python.
-https://www.tutorialspoint.com/execute_python_online.php - Un shell de UNIX con todas las funciones y un explorador de proyectos fácil de usar.
-http://rextester.com/l/python3_online_compiler - IDE simple y fácil de usar que muestra el tiempo de ejecución
+1.  https://www.python.org/shell/ - Sitio Oficial.
+2.  https://ideone.com/ -Mas usado para códigos pequeños
+3.  https://repl.it/languages/python3 - Potente y simple compilador en línea, IDE e intérprete. Codifique, compile y ejecute el código en Python.
+4.  https://www.tutorialspoint.com/execute_python_online.php - Un shell de UNIX con todas las funciones y un explorador de proyectos fácil de usar.
+5.  http://rextester.com/l/python3_online_compiler - IDE simple y fácil de usar que muestra el tiempo de ejecución
 
 Suerte y bienvenidos.
