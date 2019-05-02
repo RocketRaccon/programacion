@@ -1,0 +1,19 @@
+TRABAJO RESUMEN
+EQUIPO 1
+TREVINO MENDEZ MONTSERRAT 
+VILLA GODINEZ KARLA MARIA
+ALARRAZABAL TOLEDANO SIDNEY
+
+
+def print_args(arg1, arg2):
+    print(str(arg1) + str(arg2))
+   
+a = [1,2] 
+b = tuple([3,4])
+
+print_args(*a)
+#12
+print_args(*b)
+# 34
+
+
