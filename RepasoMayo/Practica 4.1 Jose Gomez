@@ -1,0 +1,30 @@
+x=5
+y=8
+
+print("EL primer numero es:", x)
+print ("El segundo numero es:", y)
+
+z=x+y
+a=x*y
+b=y-x
+c=x/y
+
+print("La suma de los numeros es:", z)
+print("La multiplicacion de los numeros dados es:", a)
+print("La resta de los numeros es", b)
+print("La division de los numeros es", c)
+
+
+
+x=100
+
+print("Los grados celcius son:", x)
+
+z=(x*(9/5))+32
+
+print("Los grados farenheit son:", z)
+
+
+celcius=int(input('Ingrese la temperatura en grados'))
+fahrenheit=9.0/5.0*celcius +32
+print('{} grados celcius son {} grados fahrenheit' .format(fahrenheit, celcius))
