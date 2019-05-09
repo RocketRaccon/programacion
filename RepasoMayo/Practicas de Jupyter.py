@@ -1,24 +1,19 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Practicas de Jupyther Notebook
-# ## Por Sidney Alarrazabal
+# # Practicas de Jupyter Notebook
+# 
+# ## Por Minerva Fuentes
+# 
 # # Recordando MarkDown
 # 
-# ![imagen](https://i.pinimg.com/originals/d0/59/cf/d059cff89f24a562179a23b6c08b9f4f.jpg)
+# ![](https://upload.wikimedia.org/wikipedia/commons/8/86/Tom_Holland_%2828652895005%29.jpg)
 
-# In[ ]:
+# In[7]:
 
 
-## Celsius a Farenheit
-
-celsius = int(input('Ingrese la temperatura en grados Celsius: '))
+# Convertir temperaturas Celsius a Fahrentheit
+celsius = int(input('ingrese la temperatura en grados Celsius:'))
 fahrenheit = 9.0/5.0 * celsius +32
-print('{} grados Celsius son {} grados Fahrenheit'.format(fahrenheit, celsius))
-
-
-# In[ ]:
-
-
-
+print(celsius,' grados Celsius son', fahrenheit,' grados fahrenheit'.format (fahrenheit, celsius))
 
